@@ -1,0 +1,1 @@
+select id, name from students order by score desc, id asc limit 3;
